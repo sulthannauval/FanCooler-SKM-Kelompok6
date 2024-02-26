@@ -1,3 +1,3 @@
 # Tugas Besar Sistem Kendali dan Mekanika
 
-Tugas Besar Mata Kuliah Sistem Kendali dan Mekanika Kelompok 6
+Kelompok 6 - TK-45-G2
